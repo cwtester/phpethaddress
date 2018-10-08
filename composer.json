@@ -1,5 +1,5 @@
 {
-    "name": "doxadoxa/phpethaddress",
+    "name": "cwtester/phpethaddress",
     "description": "Generating Ethereum address object",
     "type": "library",
     "version": "0.1.0",
